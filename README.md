@@ -1,6 +1,6 @@
 
 # Afsana Tasnim
-<img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg" alt="Afsana Tasnim" width="50" height="80">
+<img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg" alt="Afsana Tasnim" width="60" height="80">
 **Masters in Computer Science**  
 The University of Texas at Arlington  
 **Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
