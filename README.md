@@ -18,6 +18,19 @@ The University of Texas at Arlington
 
 
 # Teaching Experiences:
+### Graduate Teaching Assistant:
+- CSE 4380, Information Security
+- CSE 4382, Secure Programming
+- CSE 5315, Numerical Methods
+- CSE 4310, Computer Vision
+- CSE 2315, Discrete Structures
+
+### Web Development Instructor - IIT, University of Dhaka 
+Worked as an instructor for the courses Web Programming and Web Designing.
+
+### Mentor:
+Worked as a mentor at the Student Computing Research Festival (SCRF 2023) hosted at The University of Texas at Arlington.
+
 
 
 # News:
