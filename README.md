@@ -1,11 +1,6 @@
-<style>
-    .profile-picture {
-        width: 100px;
-        height: auto;
-    }
-</style>
+
 # Afsana Tasnim
-<img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg" alt="Afsana Tasnim" class="profile-picture">
+![alt text](https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg)
 **Masters in Computer Science**  
 The University of Texas at Arlington  
 **Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
