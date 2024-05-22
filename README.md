@@ -1,4 +1,5 @@
 # Afsana Tasnim
+[[https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg]]
 **Masters in Computer Science**  
 The University of Texas at Arlington  
 **Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
