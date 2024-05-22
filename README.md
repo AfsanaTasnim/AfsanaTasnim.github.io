@@ -3,19 +3,19 @@ Masters in Computer Science
 The University of Texas at Arlington
 Email: afsanatasnim780@yahoo.com
 
-##Research Interest:
+# Research Interest:
 
 
-##Education:
+# Education:
 
 
-##Publication
+# Publication
 
 
-##Awards and Honors:
+# Awards and Honors:
 
 
-##Teaching Experiences:
+# Teaching Experiences:
 
 
-##News:
+# News:
