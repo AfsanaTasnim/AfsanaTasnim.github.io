@@ -1,7 +1,7 @@
 # Afsana Tasnim
-Masters in Computer Science__
-The University of Texas at Arlington__
-Email: afsanatasnim780@yahoo.com__
+Masters in Computer Science
+The University of Texas at Arlington
+Email: afsanatasnim780@yahoo.com
 
 #Research Interest:
 
