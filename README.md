@@ -12,7 +12,7 @@ The University of Texas at Arlington
 - **Bachelor of Science in Software Engineering (2013-2016)** - IIT, University of Dhaka
 
 # Publication
-
+- Tasnim, Afsana, and Md Rayhanur Rahman. "Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree." In 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR), pp. 503-507. IEEE, 2018.
 
 # Awards and Honors:
 
