@@ -1,10 +1,16 @@
 
 # Afsana Tasnim
-<img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg" alt="Afsana Tasnim" width="180" height="200">
-<br> 
-**Masters in Computer Science**  
-The University of Texas at Arlington  
-**Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
+<div style="display: flex;">
+    <div style="flex: 1;">
+        # Afsana Tasnim
+        <img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/blob/main/picture.jpg" alt="Afsana Tasnim" width="180" height="200" style="margin-right: 10px;">
+    </div>
+    <div style="flex: 1;">
+        **Masters in Computer Science**  
+        The University of Texas at Arlington  
+        **Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
+    </div>
+</div>
 
 # Research Interest:
 
