@@ -36,4 +36,5 @@ Worked as an instructor for the courses Web Programming and Web Designing.
 Worked as a mentor at the Student Computing Research Festival (SCRF 2023) hosted at The University of Texas at Arlington.
 
 # News:
+- [02/2023] - Invited to act as a mentor for the Student Computing Research Festival (SCRF) 2023 hosted at the University of Texas at Arlington.
 - [06/2018] - One paper accepted the "2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR)".
