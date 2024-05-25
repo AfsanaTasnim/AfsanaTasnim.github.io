@@ -30,7 +30,8 @@ The University of Texas at Arlington
 - CSE 2315: Discrete Structures - Spring 2024
 
 ### Web Development Instructor @IIT, University of Dhaka 
-- Worked as an instructor for the courses Web Programming and Web Designing.
+- Web Designing
+- Web Programming
 
 ### Mentor:
 - Worked as a mentor at the Student Computing Research Festival (SCRF 2023) hosted at The University of Texas at Arlington.
