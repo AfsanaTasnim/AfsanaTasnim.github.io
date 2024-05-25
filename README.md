@@ -18,7 +18,7 @@ The University of Texas at Arlington
 - Tasnim, Afsana, and Md Rayhanur Rahman. "Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree." In 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR), pp. 503-507. IEEE, 2018.
 
 # Teaching Experiences:
-### Graduate Teaching Assistant:
+### Graduate Teaching Assistant @UTA:
 - CSE 4380, Information Security, Fall 2021
 - CSE 4382, Secure Programming, Spring 2022
 - CSE 5315, Numerical Methods, Summer 2022
