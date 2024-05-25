@@ -19,11 +19,15 @@ The University of Texas at Arlington
 
 # Teaching Experiences:
 ### Graduate Teaching Assistant:
-- CSE 4380, Information Security
-- CSE 4382, Secure Programming
-- CSE 5315, Numerical Methods
-- CSE 4310, Computer Vision
-- CSE 2315, Discrete Structures
+- CSE 4380, Information Security, Fall 2021
+- CSE 4382, Secure Programming, Spring 2022
+- CSE 5315, Numerical Methods, Summer 2022
+- CSE 4310, Computer Vision, Summer 2022
+- CSE 1310, Introduction to Computers and Programming, Fall 2022
+- CSE 2315, Discrete Structures, Spring 2023
+- CSE 1310, Introduction to Computers and Programming, Summer 2023
+- CSE 2315, Discrete Structures, Fall 2023
+- CSE 2315, Discrete Structures, Spring 2024
 
 ### Web Development Instructor - IIT, University of Dhaka 
 - Worked as an instructor for the courses Web Programming and Web Designing.
