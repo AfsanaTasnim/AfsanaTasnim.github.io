@@ -29,7 +29,7 @@ The University of Texas at Arlington
 - CSE 2315: Discrete Structures - Fall 2023
 - CSE 2315: Discrete Structures - Spring 2024
 
-### Web Development Instructor - IIT, University of Dhaka 
+### Web Development Instructor @IIT, University of Dhaka 
 - Worked as an instructor for the courses Web Programming and Web Designing.
 
 ### Mentor:
