@@ -4,7 +4,7 @@
 
 **Masters in Computer Science**  
 The University of Texas at Arlington  
-**Email:** afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com
+**Email:** [afsanatasnim780@yahoo.com](mailto:afsanatasnim780@yahoo.com)
 
 # Research Interest:
 
