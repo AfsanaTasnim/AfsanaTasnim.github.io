@@ -33,7 +33,6 @@ The University of Texas at Arlington
 
 # Industry Experience:
 - Senior Manager - ConnectJapan (June 2020 – April 2021, Dhaka, Bangladesh)
-- Software Engineer Intern - NNS Solutions Ltd (January 2016 – June 2016, Dhaka, Bangladesh)
 
 # News:
 - [02/2023] - Invited to act as a mentor for the Student Computing Research Festival (SCRF) 2023 hosted at the University of Texas at Arlington.
