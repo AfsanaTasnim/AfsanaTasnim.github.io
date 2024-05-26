@@ -15,7 +15,7 @@ The University of Texas at Arlington
 - **Bachelor of Science in Software Engineering (2013-2016)** - IIT, University of Dhaka
 
 # Publication
-- Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree, 2018 ICIEV icIVPR
+- Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree, **2018 ICIEV icIVPR**
 
 # Teaching Experiences:
 ### Graduate Teaching Assistant @UTA:
