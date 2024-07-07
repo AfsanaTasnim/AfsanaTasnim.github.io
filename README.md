@@ -16,7 +16,7 @@ I am Afsana Tasnim. My research interests are file and storage systems including
 - **Bachelor of Science in Software Engineering (2013-2016)** - IIT, University of Dhaka
 
 # Publication
-- Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree, **2018 ICIEV icIVPR**
+- Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree, **2018 7th ICIEV and 2nd icIVPR**
 
 # Teaching Experiences:
 ### Graduate Teaching Assistant @UTA:
