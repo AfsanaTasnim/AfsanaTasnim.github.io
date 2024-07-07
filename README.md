@@ -37,6 +37,6 @@ I am Afsana Tasnim. My research interests are file and storage systems including
 - Senior Manager - ConnectJapan (June 2020 – April 2021, Dhaka, Bangladesh)
 
 # News:
-- [05/2024] - Completed Master of Science in Computer Science from The University of Texas at Arlington
+- [05/2024] - Graduated with a Master of Science in Computer Science from The University of Texas at Arlington
 - [02/2023] - Acted as a mentor for the Student Computing Research Festival (SCRF) 2023 hosted at the University of Texas at Arlington.
 - [06/2018] - Presented my paper at the "2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR)".
