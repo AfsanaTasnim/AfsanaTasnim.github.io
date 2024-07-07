@@ -1,6 +1,6 @@
 
 # Afsana Tasnim
-![MyImage](Photo.jpg)
+![MyImage](mimi.jpg)
 
 **Master of Science in Computer Science**  
 The University of Texas at Arlington  
