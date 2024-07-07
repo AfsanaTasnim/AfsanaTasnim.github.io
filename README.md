@@ -2,7 +2,7 @@
 # Afsana Tasnim
 ![MyImage](Photo.jpg)
 
-**Masters in Computer Science**  
+**Master of Science in Computer Science**  
 The University of Texas at Arlington  
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span>
 
