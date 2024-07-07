@@ -7,7 +7,7 @@ The University of Texas at Arlington
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span>
 
 # Research Interest:
-<code style="color : blue">text</code>
+
 My research interests are file and storage systems including systems performance optimization for big data and storage systems, systems infrastructure for big data, and high performance computing. I have recently completed my Master of Science in Computer Science from the University of Texas at Arlington. Before that, I worked as the Senior Manager at ConnectJapan. I completed my Masters and Bachelors in Software Engineering from Institute of Information Technology, University of Dhaka. 
 
 # Education:
