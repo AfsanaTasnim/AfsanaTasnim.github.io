@@ -1,6 +1,7 @@
 
 # Afsana Tasnim
 ![MyImage](picture.jpg)
+<img src = "![MyImage](picture.jpg)" alt="Afsana Tasnim" width="180" height="200">
 <img src="https://github.com/AfsanaTasnim/AfsanaTasnim.github.io/picture.jpg" alt="Afsana Tasnim" width="180" height="200">
 
 **Masters in Computer Science**  
