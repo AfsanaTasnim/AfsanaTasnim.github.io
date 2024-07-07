@@ -2,6 +2,8 @@
 # Afsana Tasnim
 ![MyImage](mimi2.jpg)
 
+<a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
+
 **Master of Science in Computer Science**  
 The University of Texas at Arlington  
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span>
