@@ -9,7 +9,7 @@
 **Master of Science in Computer Science**  
 The University of Texas at Arlington  
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span> <br/>
-**GitHub:** <a href = "https://github.com/AfsanaTasnim">Link</a>
+**GitHub:** <a href = "https://github.com/AfsanaTasnim">Link</a> <br/>
 **Google Scholar:** <a href = "https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en&oi=sra">Link</a> <br/>
 **LinkedIn:** <a href="https://www.linkedin.com/in/atmimi">Link</a>
 
