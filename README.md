@@ -9,7 +9,7 @@ The University of Texas at Arlington
 **Google Scholar:** <a href = "https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en&oi=sra">Link</a> <br/>
 **LinkedIn:** <a href="https://www.linkedin.com/in/atmimi">Link</a>
 
-${\textsf{\color{lightgreen}Green}}$ <br/>
+${\textsf{\color{green}Green}}$ <br/>
 **I am open to collaborating with students, faculties and researchers from all over the world. Please reach out to me via email if you are interested in my research work.**
 
 # About Afsana
