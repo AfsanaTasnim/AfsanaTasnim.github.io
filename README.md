@@ -1,5 +1,3 @@
-
-# Afsana Tasnim
 ![MyImage](mimi3.jpg)
 
 **Master of Science in Computer Science**  
