@@ -11,7 +11,7 @@ The University of Texas at Arlington
 
 ### I am open to collaborating with students, faculties and researchers. Please reach out to me via email if you are interested to work with me. <br/>
 
-### <span style="color: blue;">I am open to collaborating with students, faculties and researchers. Please reach out to me via email if you are interested to work with me.</span> <br/>
+### <span style="color: green;">I am open to collaborating with students, faculties and researchers. Please reach out to me via email if you are interested to work with me.</span> <br/>
 
 
 
