@@ -10,6 +10,9 @@
 The University of Texas at Arlington  
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span>
 
+# About Afsana
+I am a recent graduate of Computer Science. I graduated with a Master of Science in Computer Science from the University of Texas at Arlington. Before coming to the States, I worked as the Senior Manager of ConnectJapan in Dhaka, Bangladesh. I also graduated with a Master of Science in Software Engineering from Institute of Information Technology, University of Dhaka, under the supervision of Md. Rayhanur Rahman. My current research is focused on System infrastructure for big data, in particular, data management systems, file and storage systems, and I/O performance in high-performance computing.
+
 # Research Interest:
 
 My research interests are file and storage systems including systems performance optimization for big data and storage systems, systems infrastructure for big data, and high performance computing. 
