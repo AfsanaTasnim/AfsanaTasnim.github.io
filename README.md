@@ -2,10 +2,6 @@
 # Afsana Tasnim
 ![MyImage](mimi2.jpg)
 
-!<--<a href = "https://github.com/AfsanaTasnim">Github</a>
-<a href = "https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en&oi=sra">Google Scholar</a>
-<a href="https://www.linkedin.com/in/atmimi">LinkedIn</a>-->
-
 **Master of Science in Computer Science**  
 The University of Texas at Arlington  
 **Email:** <span style="color: black; text-decoration: none;">afsanatasnim780@yahoo.com</span> <br/>
