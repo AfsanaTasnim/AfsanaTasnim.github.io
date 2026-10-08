@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+excerpt: 'This paper is about finding patterns in AI codebases'
+date: 2026-10-10
+venue: 'To Appear'
+paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://arxiv.org/pdf/2609.02789)'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
