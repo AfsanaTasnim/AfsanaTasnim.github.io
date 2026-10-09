@@ -34,7 +34,7 @@ Methods, Computer Vision, Discrete Structures. Provided academic support and gui
  
 * Jan. 2016 - Jun. 2016: Intern
   * NNS Solutions Ltd
-  * Duties included: Duties included: developing and testing
+  * Duties included: developing and testing
   
 Publications
 ======
