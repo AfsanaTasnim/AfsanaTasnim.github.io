@@ -48,7 +48,19 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+GTA Experience
+======
+* Information Security, CSE 4380, Fall 2021
+* Secure Programming, CSE 4382, Spring 2022
+* Numerical Methods, CSE 5315, Summer 2022
+* Fundamentals of Computer Vision, CSE 4310, Summer 2022
+* Introduction to Computers & Programming, CSE 1310, Fall 2022
+* Discrete Structures, CSE 2315, Spring 2023
+* Discrete Structures, CSE 2315, Summer 2023
+* Discrete Structures, CSE 2315, Fall 2023
+* Discrete Structures, CSE 2315, Spring 2024
+
 Service 
 ======
 * Mentor, Student Computing Research Festival (SCRF) at UTA 2023 
