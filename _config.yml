@@ -23,7 +23,7 @@ repository               : "https://afsanatasnim.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profilepicture.jpg"
   name             : "Afsana Tasnim"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer @Adhvan Inc."
