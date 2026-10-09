@@ -49,6 +49,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service 
 ======
-* Currently signed in 
+* Mentor, Student Computing Research Festival (SCRF) at UTA 2023 
+  * Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington
+* Mentor, Student Computing Research Festival (SCRF) at UTA 2024 
+  * Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington.
