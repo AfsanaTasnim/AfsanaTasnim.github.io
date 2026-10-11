@@ -13,7 +13,11 @@ Education
 ======
 * MS in Computer Science, University of Texas at Arlington, 2024
 * M.S. in Software Engineering, University of Dhaka, 2018
+  * Thesis: Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract SyntaxTree
+  * Supervisor: Md Rayhanur Rahman
 * B.S. in Software Engineering, University of Dhaka, 2016
+  * Final Year Project: Education Management System
+  * Supervisor: Md Rayhanur Rahman
 
 Work experience
 ======
