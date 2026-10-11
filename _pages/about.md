@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 This is Afsana, a Software Engineer at Adhvan Inc. Prior to joining Adhvan Inc, I completed my masters in Computer Science from the University of Texas at Arlington.
+I also completed my masters in Software Engineering from Institute of Information Technology, University of Dhaka under the supervision of Md. Rayhanur Rahman. I completed my bachelors in Software Engieering from Institute of Information Technology, University of Dhaka.
 
 # News
 - **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas
