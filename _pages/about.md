@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+## News
 This is Afsana, a Software Engineer at Adhvan Inc. Prior to joining Adhvan Inc, I completed my masters in Computer Science from the University of Texas at Arlington.
 
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington 
