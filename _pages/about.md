@@ -12,8 +12,8 @@ I also completed my masters in Software Engineering from Institute of Informatio
 
 # Publications
 I have published one peer-reviewed research paper, which has received 3(https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
-- ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases [Paper](https://arxiv.org/pdf/2609.02789)
-- Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree (ICIEV and icIVPR 2018) [Paper](https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree)
+- **"ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases,"** [Paper](https://arxiv.org/pdf/2609.02789)
+- **"Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree,"**, 2018 Joint 7th International Conference on Informatics, Electronics & Vision and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (ICIEV and icIVPR 2018) [Paper](https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree)
 
 # Experience
 - Software Engineer @ Adhvan Inc  (June 2024 — Current)
