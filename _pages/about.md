@@ -45,9 +45,9 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - Software Engineer ‑ Intern **@ NNS Solutions Ltd** (January 2016 — June 2016)
 
 <h1 id="education" style="scroll-margin-top: 80px;">🎓 Education</h1>
-- MS in Computer Science **@ University of Texas at Arlington**, Arlington, Texas (August 2021 — May 2024)
-- MS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2017 — June 2018)
-- BS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2013 — December 2016)
+- MS in Computer Science **@ University of Texas at Arlington**, Arlington, Texas (Aug 2021 — May 2024)
+- MS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (Jan 2017 — June 2018)
+- BS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (Jan 2013 — Dec 2016)
 
 <h1 id="teaching" style="scroll-margin-top: 80px;">🖊️ Teaching</h1>
 - CSE 4380: Information Security (Fall 2021)
