@@ -24,7 +24,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - Web Development Instructor **@ Institute of Information Technology, University of Dhaka** (Jan, 2017 — Dec, 2019)
 - Software Engineer ‑ Intern **@ NNS Solutions Ltd** (January 2016 — June 2016)
 
-<h1><i class="fas fa-graduation-cap"></i> Education</h1>
+# 🎓 Education
 - MS in Computer Science **@ University of Texas at Arlington**, Arlington, Texas (August 2021 — May 2024)
 - MS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2017 — June 2018)
 - BS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2013 — December 2016)
