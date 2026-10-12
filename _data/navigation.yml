@@ -15,10 +15,10 @@ main:
     url: /#experience      
 
   - title: "Education"
-    url: /education/
+    url: /#education  
 
   - title: "Teaching"
-    url: /teaching/
+    url: /#teaching 
     
     
   - title: "CV"
