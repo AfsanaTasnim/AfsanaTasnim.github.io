@@ -23,9 +23,20 @@ I have published one peer-reviewed research paper, which has received three cita
 - Software Engineer ‑ Intern @ NNS Solutions Ltd (January 2016 — June 2016)
 
 # Education
-
+- MS in Computer Science @University of Texas at Arlington, Arlington, Texas (August 2021 — May 2024)
+- MS in Software Engineering @University of Dhaka, Dhaka, Bangladesh (January 2017 — June 2018)
+- BS in Software Engineering @University of Dhaka, Dhaka, Bangladesh (January 2013 — December 2016)
 
 # Teaching
+- CSE 4380: Information Security (Fall 2021)
+- CSE 4382: Secure Programming (Spring 2022)
+- CSE 5315: Numerical Methods (Summer 2022)
+- CSE 4310: Fundamentals of Computer Vision (Summer 2022)
+- CSE 1310: Introduction to Computers & Programming (Fall 2022)
+- CSE 2315: Discrete Structures (Spring 2023)
+- CSE 2315: Discrete Structures (Summer 2023)
+- CSE 2315: Discrete Structures (Fall 2023)
+- CSE 2315: Discrete Structures (Spring 2024)
 
 
 # News
