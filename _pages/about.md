@@ -16,7 +16,11 @@ I have published one peer-reviewed research paper, which has received three cita
 - Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree (ICIEV and icIVPR 2018)
 
 # Experience
-
+- Software Engineer @ Adhvan Inc  (June 2024 — Current)
+- Graduate Teaching Assistant @ The University of Texas at Arlington (August 2021 — May 2024)
+- Software Engineer @ ConnectJapan (June 2020 — April 2021)
+- Web Development Instructor @ Institute of Information Technology, University of Dhaka (Jan, 2017 — Dec, 2019)
+- Software Engineer ‑ Intern @ NNS Solutions Ltd (January 2016 — June 2016)
 
 # Education
 
