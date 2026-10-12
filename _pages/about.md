@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Afsana, a Software Engineer at Adhvan Inc. Prior to joining Adhvan Inc, I completed my masters in Computer Science from the University of Texas at Arlington.
-I also completed my masters in Software Engineering from Institute of Information Technology, University of Dhaka under the supervision of Md. Rayhanur Rahman. I completed my bachelors in Software Engieering from Institute of Information Technology, University of Dhaka.
+I am Afsana Tasnim, currently working as a Software Engineer at Adhvan Inc. I received my Master of Science (M.S.) in Computer Science from the University of Texas at Arlington in May 2024. Previously, I earned my M.S. in Software Engineering from the Institute of Information Technology (IIT), University of Dhaka, under the supervision of Md. Rayhanur Rahman. I also hold a Bachelor of Science (B.S.) in Software Engineering from the same institution.
 
 <h1 id="publications" style="scroll-margin-top: 80px;">📑 Publications</h1>
 I have published one peer-reviewed research paper, which has received [3](https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
