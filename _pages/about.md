@@ -25,7 +25,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 
 <ul>
   <li>
-    <span style="display:inline-block; margin-right:8px; white-space:nowrap;">
+    <span style="display:inline-block; margin-right:4px; white-space:nowrap;">
       <span style="background:#555; color:white; padding:3px 6px; font-size:13px;">ICIEV & icIVPR</span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">2018</span>
     </span>
 
