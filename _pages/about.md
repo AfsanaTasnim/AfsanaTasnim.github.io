@@ -10,14 +10,14 @@ redirect_from:
 This is Afsana, a Software Engineer at Adhvan Inc. Prior to joining Adhvan Inc, I completed my masters in Computer Science from the University of Texas at Arlington.
 I also completed my masters in Software Engineering from Institute of Information Technology, University of Dhaka under the supervision of Md. Rayhanur Rahman. I completed my bachelors in Software Engieering from Institute of Information Technology, University of Dhaka.
 
-# Publications
+# 📝 Publications
 I have published one peer-reviewed research paper, which has received [3](https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
 - **"ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases,"** <br>
 [Paper](https://arxiv.org/pdf/2609.02789)
 - **"Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree,"**, 2018 Joint 7th International Conference on Informatics, Electronics & Vision and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (ICIEV and icIVPR 2018) <br>
 [Paper](https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree)
 
-# Experience
+# 🧳 Experience
 - Software Engineer **@ Adhvan Inc**  (June 2024 — Current)
 - Graduate Teaching Assistant **@ The University of Texas at Arlington** (August 2021 — May 2024)
 - Software Engineer **@ ConnectJapan** (June 2020 — April 2021)
@@ -29,7 +29,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - MS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2017 — June 2018)
 - BS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2013 — December 2016)
 
-# Teaching
+# 💬 Teaching
 - CSE 4380: Information Security (Fall 2021)
 - CSE 4382: Secure Programming (Spring 2022)
 - CSE 5315: Numerical Methods (Summer 2022)
@@ -41,7 +41,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - CSE 2315: Discrete Structures (Spring 2024)
 
 
-# News
+# 📢 News
 - **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington 
