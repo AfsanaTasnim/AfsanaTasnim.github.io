@@ -51,3 +51,6 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - **June 2018:** Presented my paper at the 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR) in Fukuoka, Japan
 -  **May 2018:** Received fellowship from ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh, No-56.00.0000.028.33.094.18- 168
 
+# 🌍 Open to Collaboration
+I am open to both local and international collaborations. I welcome opportunities to collaborate with researchers and professionals on innovative projects. Feel free to reach out if you are interested in working together.
+
