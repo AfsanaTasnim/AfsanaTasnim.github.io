@@ -18,11 +18,11 @@ I have published one peer-reviewed research paper, which has received [3](https:
 [Paper](https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree)
 
 # Experience
-- Software Engineer @ Adhvan Inc  (June 2024 — Current)
-- Graduate Teaching Assistant @ The University of Texas at Arlington (August 2021 — May 2024)
-- Software Engineer @ ConnectJapan (June 2020 — April 2021)
-- Web Development Instructor @ Institute of Information Technology, University of Dhaka (Jan, 2017 — Dec, 2019)
-- Software Engineer ‑ Intern @ NNS Solutions Ltd (January 2016 — June 2016)
+- Software Engineer **@ Adhvan Inc**  (June 2024 — Current)
+- Graduate Teaching Assistant **@ The University of Texas at Arlington** (August 2021 — May 2024)
+- Software Engineer **@ ConnectJapan** (June 2020 — April 2021)
+- Web Development Instructor **@ Institute of Information Technology, University of Dhaka** (Jan, 2017 — Dec, 2019)
+- Software Engineer ‑ Intern **@ NNS Solutions Ltd** (January 2016 — June 2016)
 
 # Education
 - MS in Computer Science @University of Texas at Arlington, Arlington, Texas (August 2021 — May 2024)
