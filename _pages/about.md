@@ -16,15 +16,16 @@ I have published one peer-reviewed research paper, which has received [3](https:
 </span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">
   2026
 </span>
+
 <ul>
   <li>
-    <span style="background:#555; color:white; padding:3px 6px; font-size:13px;">
-      ICIEV
-    </span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">
-      2018
+    <span style="display:inline-block; margin-right:10px; white-space:nowrap;">
+      <span style="background:#555; color:white; padding:3px 6px; font-size:13px;">ICIEV</span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">2018</span>
     </span>
+
     <strong>Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree</strong>,
     <em>2018 Joint 7th International Conference on Informatics, Electronics &amp; Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision &amp; Pattern Recognition (icIVPR)</em>.
+
     <br>
     <a href="https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree">[Paper]</a>
   </li>
