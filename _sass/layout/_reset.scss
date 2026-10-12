@@ -4,7 +4,7 @@
 
 @include border-box-sizing;
 
-html {
+/* html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: var(--global-bg-color);
@@ -13,6 +13,16 @@ html {
   @include breakpoint($medium) {
     font-size: 18px;
   }
+
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+} */
+
+html {
+  /* apply a natural box layout model to all elements */
+  box-sizing: border-box;
+  background-color: var(--global-bg-color);
+  font-size: 15px;
 
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
