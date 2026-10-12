@@ -10,7 +10,7 @@ redirect_from:
 This is Afsana, a Software Engineer at Adhvan Inc. Prior to joining Adhvan Inc, I completed my masters in Computer Science from the University of Texas at Arlington.
 I also completed my masters in Software Engineering from Institute of Information Technology, University of Dhaka under the supervision of Md. Rayhanur Rahman. I completed my bachelors in Software Engieering from Institute of Information Technology, University of Dhaka.
 
-<h1 id="publications" style="scroll-margin-top: 100px;">📑 Publications</h1>
+<h1 id="publications" style="scroll-margin-top: 40px;">📑 Publications</h1>
 I have published one peer-reviewed research paper, which has received [3](https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
 - **"ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases,"** <br>
 [Paper](https://arxiv.org/pdf/2609.02789)
