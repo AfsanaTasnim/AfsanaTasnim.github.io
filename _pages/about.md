@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div id="about" style="scroll-margin-top: 80px;"></div>
 
 I am Afsana Tasnim, currently working as a Software Engineer at Adhvan Inc. I received my Master of Science (M.S.) in Computer Science from the University of Texas at Arlington in May 2024. Previously, I earned my M.S. in Software Engineering from the Institute of Information Technology (IIT), University of Dhaka, under the supervision of Md. Rayhanur Rahman. I also hold a Bachelor of Science (B.S.) in Software Engineering from the same institution.
 
