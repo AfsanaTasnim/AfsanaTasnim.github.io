@@ -61,13 +61,13 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - CSE 2315: Discrete Structures (Spring 2024)
 
 <h1 id="news" style="scroll-margin-top: 80px;">📰 News</h1>
-- **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas
-- **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington
-- **February 2024:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington
-- **February 2023:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington
+- **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas.
+- **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington.
+- **February 2024:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington.
+- **February 2023:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington.
 - **August 2021:** Started my graduate studies in Computer Science at the University of Texas at Arlington, USA.
-- **June 2018:** Presented my paper at the 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR) in Fukuoka, Japan
--  **May 2018:** Received fellowship from ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh, No-56.00.0000.028.33.094.18- 168
+- **June 2018:** Presented my paper at the 2018 Joint 7th International Conference on Informatics, Electronics & Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (icIVPR) in Fukuoka, Japan.
+-  **May 2018:** Received fellowship from ICT Division, Ministry of Posts, Telecommunications and Information Technology, Bangladesh, No-56.00.0000.028.33.094.18- 168.
 
 # 🌍 Open to Collaboration
 I am open to both local and international collaborations. I welcome opportunities to collaborate with researchers and professionals on innovative projects. Feel free to reach out if you are interested in working together.
