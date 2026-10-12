@@ -11,10 +11,24 @@ I am Afsana Tasnim, currently working as a Software Engineer at Adhvan Inc. I re
 
 <h1 id="publications" style="scroll-margin-top: 80px;">📑 Publications</h1>
 I have published one peer-reviewed research paper, which has received [3](https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
-- **"ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases,"** <br>
-[Paper](https://arxiv.org/pdf/2609.02789)
-- **"Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree,"**, 2018 Joint 7th International Conference on Informatics, Electronics & Vision and 2018 2nd International Conference on Imaging, Vision & Pattern Recognition (ICIEV and icIVPR 2018) <br>
-[Paper](https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree)
+<span style="background:#555; color:white; padding:3px 6px; font-size:13px;">
+  arXiv
+</span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">
+  2026
+</span>
+<ul>
+  <li>
+    <span style="background:#555; color:white; padding:3px 6px; font-size:13px;">
+      ICIEV
+    </span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">
+      2018
+    </span>
+    <strong>Inferring Bug Patterns for Detecting Bugs in JavaScript By Analyzing Abstract Syntax Tree</strong>,
+    <em>2018 Joint 7th International Conference on Informatics, Electronics &amp; Vision (ICIEV) and 2018 2nd International Conference on Imaging, Vision &amp; Pattern Recognition (icIVPR)</em>.
+    <br>
+    <a href="https://www.researchgate.net/publication/331610435_Inferring_Bug_Patterns_for_Detecting_Bugs_in_JavaScript_By_Analyzing_Abstract_Syntax_Tree">[Paper]</a>
+  </li>
+</ul>
 
 <h1 id="experience" style="scroll-margin-top: 80px;">🧳 Experience</h1>
 - Software Engineer **@ Adhvan Inc**  (June 2024 — Current)
