@@ -13,7 +13,13 @@ main:
 
   - title: "Experience"
     url: /experience/    
-        
+
+  - title: "Education"
+    url: /education/
+
+  - title: "Teaching"
+    url: /teaching/
+    
     
   - title: "CV"
     url: /cv/
