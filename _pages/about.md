@@ -11,11 +11,17 @@ I am Afsana Tasnim, currently working as a Software Engineer at Adhvan Inc. I re
 
 <h1 id="publications" style="scroll-margin-top: 80px;">📑 Publications</h1>
 I have published one peer-reviewed research paper, which has received [3](https://scholar.google.com/citations?user=P4_LIl8AAAAJ&hl=en) citations. I also have a research preprint available on arXiv. 
-<span style="background:#555; color:white; padding:3px 6px; font-size:13px;">
-  arXiv
-</span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">
-  2026
-</span>
+
+<ul>
+  <li>
+    <span style="display:inline-block; margin-right:4px; white-space:nowrap;">
+      <span style="background:#555; color:white; padding:3px 6px; font-size:13px;">arXiv</span><span style="background:#0077b6; color:white; padding:3px 6px; font-size:13px;">2026</span>
+    </span>
+    <strong>ShikumiMiner: Mining Recurring Implementation Patterns in AI Codebases</strong>
+    <br>
+    <a href="https://arxiv.org/pdf/2609.02789">[Paper]</a>
+  </li>
+</ul>
 
 <ul>
   <li>
