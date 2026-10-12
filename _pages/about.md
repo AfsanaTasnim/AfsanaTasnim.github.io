@@ -25,9 +25,9 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - Software Engineer ‑ Intern **@ NNS Solutions Ltd** (January 2016 — June 2016)
 
 # Education
-- MS in Computer Science @University of Texas at Arlington, Arlington, Texas (August 2021 — May 2024)
-- MS in Software Engineering @University of Dhaka, Dhaka, Bangladesh (January 2017 — June 2018)
-- BS in Software Engineering @University of Dhaka, Dhaka, Bangladesh (January 2013 — December 2016)
+- MS in Computer Science **@University of Texas at Arlington**, Arlington, Texas (August 2021 — May 2024)
+- MS in Software Engineering **@University of Dhaka**, Dhaka, Bangladesh (January 2017 — June 2018)
+- BS in Software Engineering **@University of Dhaka**, Dhaka, Bangladesh (January 2013 — December 2016)
 
 # Teaching
 - CSE 4380: Information Security (Fall 2021)
