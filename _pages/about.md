@@ -43,7 +43,6 @@ I have published one peer-reviewed research paper, which has received [3](https:
 <h1 id="news" style="scroll-margin-top: 80px;">📰 News</h1>
 - **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington
-- **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington 
 - **February 2024:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington
 - **February 2023:** Worked as a mentor at the Student Computing Research Festival hosted at The University of Texas at Arlington
 - **August 2021:** Started my graduate studies in Computer Science at the University of Texas at Arlington, USA.
