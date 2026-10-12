@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "🔍 About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -29,7 +29,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - MS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2017 — June 2018)
 - BS in Software Engineering **@ University of Dhaka**, Dhaka, Bangladesh (January 2013 — December 2016)
 
-# 💬 Teaching
+# 🖊️ Teaching
 - CSE 4380: Information Security (Fall 2021)
 - CSE 4382: Secure Programming (Spring 2022)
 - CSE 5315: Numerical Methods (Summer 2022)
@@ -41,7 +41,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 - CSE 2315: Discrete Structures (Spring 2024)
 
 
-# 📢 News
+# 📰 News
 - **October 2024:** Attended Snowflake World Tour 2024 in Dallas, Texas
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington
 - **May 2024:** Graduated with a Master of Science in Computer Science from the University of Texas at Arlington 
