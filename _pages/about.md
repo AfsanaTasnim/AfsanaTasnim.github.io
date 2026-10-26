@@ -40,7 +40,7 @@ I have published one peer-reviewed research paper, which has received [3](https:
 <h1 id="experience" style="scroll-margin-top: 80px;">🧳 Experience</h1>
 - Software Engineer **@ Adhvan Inc**  (June 2024 — Current)
 - Graduate Teaching Assistant **@ The University of Texas at Arlington** (August 2021 — May 2024)
-- Software Engineer **@ ConnectJapan** (June 2020 — April 2021)
+- Senior Manager **@ ConnectJapan** (June 2020 — April 2021)
 - Web Development Instructor **@ Institute of Information Technology, University of Dhaka** (Jan, 2017 — Dec, 2019)
 - Software Engineer ‑ Intern **@ NNS Solutions Ltd** (January 2016 — June 2016)
 
